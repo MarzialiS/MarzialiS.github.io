@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download CV (PDF)](/files/CV_Marziali.pdf)
+
 {% include base_path %}
 
 Education
