@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Profilo.JPG" # Path to your profile image placed in /images/ folder
+  avatar           : "images/Profilo.JPG" # Path to your profile image placed in /images/ folder
   name             : "Sara Marziali" # Your name
   pronouns         : "she/her"  
   bio              : "PhD candidate in Mathematics – Algebra, Tensors, Complexity"
