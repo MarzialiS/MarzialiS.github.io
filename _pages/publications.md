@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: archive
 collection: publications
+entries_layout: list
 author_profile: true
 ---
 
