@@ -5,4 +5,4 @@ layout: single
 author_profile: true
 ---
 
-{% include teaching.html %}
+{% include teaching-archive.html %}
