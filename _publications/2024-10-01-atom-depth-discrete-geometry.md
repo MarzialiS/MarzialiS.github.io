@@ -10,8 +10,3 @@ authors: "S. Marziali, G. Nunziati, A. L. Prete, N. Niccolai, S. Brunetti, M. Bi
 ---
 
 
-**Recommended citation:**  
-Marziali, S., Nunziati, G., Prete, A. L., Niccolai, N., Brunetti, S., Bianchini, M.
-(2024). *A Discrete Geometry Method for Atom Depth Computation in Complex Molecular
-Systems*. In *International Conference on Discrete Geometry and Mathematical
-Morphology*, 443–455.
