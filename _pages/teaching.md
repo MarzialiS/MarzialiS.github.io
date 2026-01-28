@@ -1,8 +1,8 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-layout: archive
+layout: single
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+{% include teaching.html %}
