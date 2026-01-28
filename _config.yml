@@ -165,6 +165,7 @@ include:
   - .htaccess
   - _pages
   - _publications
+  - _teaching
   - files
 exclude:
   - "*.sublime-project"
