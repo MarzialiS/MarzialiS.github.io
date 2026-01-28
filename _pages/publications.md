@@ -1,10 +1,8 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
+layout: archive
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 
