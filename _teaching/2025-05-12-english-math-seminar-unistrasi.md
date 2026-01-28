@@ -1,6 +1,7 @@
 ---
-title: "Teaching – English-language Mathematics Seminar Cycle (May 12 -- 23, 2025)"
+title: "Teaching – English-language Mathematics Seminar Cycle (12 hours)"
 collection: teaching
 date: 2025-05-12
-venue: "Ciclo seminariale di matematica in lingua inglese, Centro CLUSS – University for Foreigners of Siena"
+venue: "Ciclo seminariale di matematica in lingua inglese, Centro CLUSS – University for Foreigners of Siena (UniStraSi)"
 ---
+
