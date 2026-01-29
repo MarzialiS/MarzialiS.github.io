@@ -17,6 +17,6 @@ author_profile: true
 ## Conference and workshop presentations
 
 {% assign conf_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %}
-{% for talk in conf_talks %}
+{% for talk in _talks %}
   {% include archive-single.html item=talk %}
 {% endfor %}
