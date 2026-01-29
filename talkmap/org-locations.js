@@ -20,6 +20,11 @@ var addressPoints = [
     11.1257601
   ],
   [
+    "Product of Tensors and Description of Networks<br />JM Invariant at 60: A Conference on Tensor Invariants in Geometry and Complexity Theory; Auburn University, Auburn, Alabama, USA",
+    32.5919528,
+    -85.4959775
+  ],
+  [
     "The Bhattacharya\u2013Mesner Product: From Tensor Rank Analysis to Description of Networks<br />SIAM Conference on Applied Algebraic Geometry (AG25); University of Wisconsin\u2013Madison, Madison, USA",
     43.0802745,
     -89.4309587
