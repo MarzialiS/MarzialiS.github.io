@@ -8,4 +8,4 @@ date: 2023-06-30
 location: "Siena, Italy"
 ---
 
-Period: October 1, 2022 -- June 30, 2023
+Period: October 1, 2022 -- June 30, 2023.
