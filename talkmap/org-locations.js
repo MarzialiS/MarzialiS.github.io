@@ -1,13 +1,13 @@
 var addressPoints = [
   [
+    "Product of Tensors and Description of Networks<br />Auburn Algebra Seminar, Auburn University; Auburn, Alabama, USA",
+    32.6098566,
+    -85.4807825
+  ],
+  [
     "Product of Tensors and Description of Networks<br />Johns Hopkins University; Baltimore, Maryland, USA",
     39.2908816,
     -76.610759
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
   ],
   [
     "Product of Tensors and Description of Networks<br />TensorDec Group, University of Trento; Trento, Italy",
