@@ -5,6 +5,11 @@ var addressPoints = [
     -85.4807825
   ],
   [
+    "Product of Tensors and Description of Networks<br />Applied Algebraic Geometry 2023\u20132024 Seminars, University of Florence; Florence, Italy",
+    43.7697955,
+    11.2556404
+  ],
+  [
     "Product of Tensors and Description of Networks<br />Johns Hopkins University; Baltimore, Maryland, USA",
     39.2908816,
     -76.610759
