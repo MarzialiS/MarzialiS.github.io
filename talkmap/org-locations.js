@@ -15,7 +15,7 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Product of tensors and description of the network for matrix multiplication via Strassen's algorithm<br />TensorDec Group Seminar, University of Trento; Trento, Italy",
+    "Product of tensors and description of the network for matrix multiplication via Strassen's algorithm<br />TensorDec Group, University of Trento; Trento, Italy",
     46.0664228,
     11.1257601
   ]
