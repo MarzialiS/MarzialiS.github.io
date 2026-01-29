@@ -1,7 +1,7 @@
 ---
 title: "Teaching for the Ciclo seminariale di matematica in lingua inglese"
 collection: teaching
-type: "Workshop"
+type: "Seminar series"
 permalink: /teaching/2025-05-12-english-math-seminar-unistrasi
 date: 2025-05-12
 venue: "Centro CLUSS – University for Foreigners of Siena (UniStraSi)"
