@@ -166,6 +166,7 @@ include:
   - _pages
   - _publications
   - _teaching
+  - _talks
   - files
 exclude:
   - "*.sublime-project"
