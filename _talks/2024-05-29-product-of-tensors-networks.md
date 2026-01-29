@@ -6,6 +6,7 @@ date: 2024-05-29
 permalink: /talks/2024-05-29-product-of-tensors-networks
 venue: "TensorDec Group, University of Trento"
 location: "Trento, Italy"
+talk_type: invited
 ---
 
 
