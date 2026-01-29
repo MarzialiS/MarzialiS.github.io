@@ -1,6 +1,6 @@
 ---
 title: "Product of Tensors and Description of Networks"
-type: "Presentation at workshop"
+type: "Oral presentation"
 collection: talks
 date: 2025-10-03
 permalink: /talks/2025-10-03-product-of-tensors-networks-arcidosso
