@@ -9,7 +9,7 @@ author_profile: true
 
 {% assign invited_talks = site.talks | where: "talk_type", "invited" | sort: "date" | reverse %}
 {% for talk in invited_talks %}
-  {% include talk-archive.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ---
@@ -18,5 +18,5 @@ author_profile: true
 
 {% assign conf_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %}
 {% for talk in conf_talks %}
-  {% include talk-archive.html %}
+  {% include archive-single.html %}
 {% endfor %}
