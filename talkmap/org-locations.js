@@ -20,6 +20,11 @@ var addressPoints = [
     11.1257601
   ],
   [
+    "The Bhattacharya\u2013Mesner Product: From Tensor Rank Analysis to Description of Networks<br />SIAM Conference on Applied Algebraic Geometry (AG25); University of Wisconsin\u2013Madison, Madison, USA",
+    43.0802745,
+    -89.4309587
+  ],
+  [
     "Product of tensors and description of the network for matrix multiplication via Strassen's algorithm<br />TensorDec Group, University of Trento; Trento, Italy",
     46.0664228,
     11.1257601
