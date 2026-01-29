@@ -1,9 +1,9 @@
 ---
-title: "Mathematical Analysis 2 undergraduate course (Spring 2023)"
+title: "Linear Algebra undergraduate course (Fall 2022, Spring 2023)"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2023-07-31-teaching-assistant-mathematical-analysis-2
+permalink: /teaching/2023-06-30-teaching-assistant-linear-algebra
 venue: "Department of Information Engineering and Mathematics, University of Siena"
-date: 2023-07-31
+date: 2023-06-30
 location: "Siena, Italy"
 ---
