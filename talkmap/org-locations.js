@@ -5,6 +5,11 @@ var addressPoints = [
     -85.4807825
   ],
   [
+    "A Discrete Geometry Method for Atom Depth Computation in Complex Molecular Systems<br />IAPR Third International Conference on Discrete Geometry and Mathematical Morphology; University of Florence, Florence, Italy",
+    43.8041147,
+    11.2729461
+  ],
+  [
     "Product of Tensors and Description of Networks<br />Applied Algebraic Geometry 2023\u20132024 Seminars, University of Florence; Florence, Italy",
     43.7697955,
     11.2556404
