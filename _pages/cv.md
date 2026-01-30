@@ -13,35 +13,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* M.S. in Applied Mathematics with degree 110/110 cum laude, Thesis title: ``Combinatorial and Discrete Differential Operators for the Study of Beta-sheets'', Advisor: Cristiano Bocci, Unversity of Siena, Siena, Italy (April 22, 2022).
+* B.S. in Mathematics with degree 110/110 cum laude, Thesis title: ``\textit{Operatori Logici e Reti Neurali}'', Advisor: Luca Chiantini., University of Siena, Siena, Italy (April 12, 2019).
+* Upper secondary school diploma with degree 100/100 cum laude, Liceo Scientifico ``Galileo Galilei'' of Siena, Siena, Italy (July 2015).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,6 +37,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
