@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 About me
 ======
 Since November 2022, I have been a PhD student in Engineering and Information Science at the University of Siena.
