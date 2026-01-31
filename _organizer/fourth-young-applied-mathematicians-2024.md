@@ -10,6 +10,7 @@ author_profile: true
 
 ---
 
+
 Member of the **Organizing and Scientific Committee**, with  
 G. Auricchio, C. Carrara, G. A. D'Inverno, C. Graziani,  
 A. Kushova, G. Loli, A. Marchetti, M. Menci, E. Onofri.

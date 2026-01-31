@@ -10,4 +10,5 @@ year: 2024
 
 ---
 
+
 Member of the **Organizing Committee** with P. Bongini, F. Costanti, B. Cullen, G. A. D'Inverno, C. Gallegati, C. Graziani, V. Lachi, N. Pancino, F. Pichi.
