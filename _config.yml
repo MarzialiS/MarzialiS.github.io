@@ -237,6 +237,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  organizer:
+    output: true
+    permalink: /organizer/:path/
 
 
 # These settings control how pages and collections are included in the site
