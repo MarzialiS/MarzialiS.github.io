@@ -168,6 +168,7 @@ include:
   - _teaching
   - _talks
   - _event-organisation
+  - _dissemination
   - files
 exclude:
   - "*.sublime-project"
@@ -240,6 +241,9 @@ collections:
   event-organisation:
     output: true
     permalink: /event-organisation/:path/
+  dissemination:
+    output: true
+    permalink: /dissemination/:path
 
 
 # These settings control how pages and collections are included in the site
