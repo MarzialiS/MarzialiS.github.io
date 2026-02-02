@@ -239,7 +239,7 @@ collections:
     permalink: /:collection/:path/
   event_organisation:
     output: true
-    permalink: /event_organisation/:path/
+    permalink: /event-organisation/:path/
 
 
 # These settings control how pages and collections are included in the site
