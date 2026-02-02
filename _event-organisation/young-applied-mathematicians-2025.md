@@ -1,6 +1,6 @@
 ---
 layout: single
-collection: event_organisation
+collection: event-organisation
 title: "The Fifth Young Applied Mathematicians Conference"
 permalink: /event-organisation/young-applied-mathematicians-2025/
 author_profile: true

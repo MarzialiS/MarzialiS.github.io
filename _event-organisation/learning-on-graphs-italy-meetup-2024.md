@@ -1,6 +1,6 @@
 ---
 title: "Learning on Graph Conference 2024 – Italy Meetup"
-collection: event_organisation
+collection: event-organisation
 permalink: /event-organisation/learning-on-graphs-italy-meetup-2024/
 year: 2024
 ---

@@ -167,7 +167,7 @@ include:
   - _publications
   - _teaching
   - _talks
-  - _event_organisation
+  - _event-organisation
   - files
 exclude:
   - "*.sublime-project"
@@ -237,7 +237,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  event_organisation:
+  event-organisation:
     output: true
     permalink: /event-organisation/:path/
 
