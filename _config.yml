@@ -237,9 +237,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  event-organisation:
+  event_organisation:
     output: true
-    permalink: /event-/:path/
+    permalink: /event_organisation/:path/
 
 
 # These settings control how pages and collections are included in the site

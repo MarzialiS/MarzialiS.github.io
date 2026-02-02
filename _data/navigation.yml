@@ -27,7 +27,7 @@ main:
     url: /cv/
 
   - title: "Event organisation"
-    url: /event-organisation/
+    url: /event_organisation/
 
   - title: "Dissemination"
     url: /dissemination/

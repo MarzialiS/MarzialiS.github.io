@@ -1,8 +1,8 @@
 ---
 layout: single
-collection: event-organisation
+collection: event_organisation
 title: "The Fourth Young Applied Mathematicians Conference"
-permalink: /event-organisation/fourth-young-applied-mathematicians-2024/
+permalink: /event_organisation/fourth-young-applied-mathematicians-2024/
 author_profile: true
 ---
 
