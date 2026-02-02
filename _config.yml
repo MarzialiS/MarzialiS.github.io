@@ -167,7 +167,7 @@ include:
   - _publications
   - _teaching
   - _talks
-  - _organizer
+  - _event_organisation
   - files
 exclude:
   - "*.sublime-project"
