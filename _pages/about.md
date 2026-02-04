@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-<div style="display: flex; gap: 2em; align-items: flex-start; margin-top: 2em;">
+<div style="display: flex; gap: 2.5em; align-items: flex-start; margin-top: 2em;">
 
-  <!-- Testo -->
-  <div style="flex: 1;">
+  <!-- Testo (più stretto) -->
+  <div style="flex: 0.8;">
     <p>
       Since November 2022, I have been a PhD student in Engineering and Information Science
       at the University of Siena.
@@ -28,8 +28,8 @@ redirect_from:
     </p>
   </div>
 
-  <!-- Immagine -->
-  <div style="flex: 1; text-align: center;">
+  <!-- Immagine (molto più grande) -->
+  <div style="flex: 1.8; text-align: center;">
     <img src="/images/My_storyline_page-0001.jpg"
          alt="My research storyline"
          style="width: 100%; height: auto;">
