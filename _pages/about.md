@@ -21,5 +21,5 @@ My research lies at the intersection of Algebraic Geometry and Tensor methods, w
 
 
 <div style="text-align: center; margin-top: 2em;">
-  <img src="/assets/images/MyStoryline.pdf" alt="Description" style="max-width: 60%; height: auto;">
+  <img src="MyStoryline.pdf" alt="Description" style="max-width: 60%; height: auto;">
 </div>
