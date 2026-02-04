@@ -20,6 +20,12 @@ Research
 My research lies at the intersection of Algebraic Geometry and Tensor methods, with a focus on notions of tensor rank and border rank, and their applications to complexity theory and networks.
 
 
-<div style="text-align: center; margin-top: 2em;">
-  <img src="/images/MyStoryline.pdf" alt="Description" style="max-width: 60%; height: auto;">
+<div style="text-align:center; margin-top:2em;">
+  <iframe
+    src="/files/MyStoryline.pdf"
+    width="80%"
+    height="900"
+    style="border:0;"
+    loading="lazy">
+  </iframe>
 </div>
