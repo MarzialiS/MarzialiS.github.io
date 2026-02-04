@@ -19,3 +19,7 @@ Research
 ======
 My research lies at the intersection of Algebraic Geometry and Tensor methods, with a focus on notions of tensor rank and border rank, and their applications to complexity theory and networks.
 
+
+<div style="text-align: center; margin-top: 2em;">
+  <img src="/assets/images/MyStoryline.pdf" alt="Description" style="max-width: 60%; height: auto;">
+</div>
