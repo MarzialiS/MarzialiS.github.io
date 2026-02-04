@@ -12,7 +12,7 @@ Since November 2022, I have been a PhD student in Engineering and Information Sc
 
 
 
-I received the Master's degree with Honours in Applied Mathematics from the University of Siena in 2022, with a thesis entitled "Combinatorial and discrete differential operators for the study of β sheets", supervised by Professor Cristiano Bocci. I obtained the Bachelor's Degree with Honours in Mathematics from the University of Siena, with a thesis on "Logical Operators and Neural Networks" under the supervision of Professor Luca Chiantini.
+I received the Master's degree with Honours in Applied Mathematics from the University of Siena in 2022, with a thesis entitled "Combinatorial and discrete differential operators for the study of β-sheets", supervised by Professor Cristiano Bocci. I obtained the Bachelor's Degree with Honours in Mathematics from the University of Siena, with a thesis on "Logical Operators and Neural Networks" under the supervision of Professor Luca Chiantini.
 
 
 Research 
