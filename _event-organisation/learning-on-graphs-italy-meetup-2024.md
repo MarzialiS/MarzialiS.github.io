@@ -11,4 +11,4 @@ Member of the **Organizing Committee** with P. Bongini, F. Costanti, B. Cullen, 
 
 ---
 
-![Group photo]({{ site.baseurl }}/images/LOG.jpeg)
+![Group photo]({{ site.baseurl }}/images/learning-on-graphs-2024.jpeg)
