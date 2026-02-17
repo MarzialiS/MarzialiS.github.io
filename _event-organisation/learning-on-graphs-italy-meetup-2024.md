@@ -11,4 +11,4 @@ Member of the **Organizing Committee** with P. Bongini, F. Costanti, B. Cullen, 
 
 ---
 
-![Group photo – Learning on Graph Italy Meetup 2024](/images/LOG.jpeg)
+![Group photo]({{ site.baseurl }}/images/LOG.jpeg)
