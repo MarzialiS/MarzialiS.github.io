@@ -16,10 +16,10 @@ redirect_from:
 <p>
   I received the Master's degree with Honours in Applied Mathematics from the University
   of Siena in 2022, with a thesis entitled
-  <em>"Combinatorial and discrete differential operators for the study of β-sheets"</em>,
+  <em>''Combinatorial and discrete differential operators for the study of β-sheets''</em>,
   supervised by Professor Cristiano Bocci.
   I obtained the Bachelor's Degree with Honours in Mathematics from the University of Siena,
-  with a thesis on <em>"Logical Operators and Neural Networks"</em> under the supervision
+  with a thesis on <em>''Logical Operators and Neural Networks''</em> under the supervision
   of Professor Luca Chiantini.
 </p>
 
