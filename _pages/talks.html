@@ -11,28 +11,28 @@ author_profile: true
 </p>
 {% endif %}
 
-<h2>Invited talks</h2>
+<h2>Conference Talks</h2>
 
-{% assign invited_talks = site.talks | where: "talk_type", "invited" | sort: "date" | reverse %}
+{% assign invited_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %}
 
 {% if invited_talks.size > 0 %}
-  {% for post in invited_talks %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
+{% for post in invited_talks %}
+{% include archive-single-talk.html %}
+{% endfor %}
 {% else %}
-  <p>No invited talks to display.</p>
+<p>No conference talks to display.</p>
 {% endif %}
 
 <hr />
 
-<h2>Conference and workshop participations</h2>
+<h2>Seminar Talks</h2>
 
-{% assign conference_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %}
+{% assign conference_talks = site.talks | where: "talk_type", "seminar" | sort: "date" | reverse %}
 
 {% if conference_talks.size > 0 %}
-  {% for post in conference_talks %}
-    {% include archive-single-talk.html %}
-  {% endfor %}
+{% for post in conference_talks %}
+{% include archive-single-talk.html %}
+{% endfor %}
 {% else %}
-  <p>No conference or workshop participations to display.</p>
+<p>No seminar talks to display.</p>
 {% endif %}
