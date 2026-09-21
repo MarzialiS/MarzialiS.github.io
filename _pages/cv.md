@@ -24,12 +24,12 @@ Education
 * B.S. in Mathematics with degree 110/110 cum laude, Thesis title: "Operatori Logici e Reti Neurali", Advisor: Prof. Luca Chiantini, University of Siena, Siena, Italy (April 12, 2019).
 * Upper secondary school diploma with degree 100/100 cum laude, Liceo Scientifico "Galileo Galilei" of Siena, Siena, Italy (July 2015).
 
-Research Stays
+Research Visits
 ======
 
 * October 17, 2024 --  April 30, 2025, Université Toulouse III - Paul Sabatier, Toulouse, France. Advisor: Prof. Fulvio Gesmundo.
 * January 12 --  April 4, 2024, Auburn University, Auburn, Alabama, USA. Advisor: Prof. Luke Oeding.
-* 
+
 
 
 
