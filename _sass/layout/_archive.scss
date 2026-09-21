@@ -48,12 +48,23 @@
   }
 }
 
-/* remove border*/
+/* remove border and compact archive item spacing */
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.8em;
+    margin-bottom: 0.2em;
     border-bottom: none;
+  }
+
+  .archive__item {
+    p {
+      margin: 0 0 0.35em;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 }
 
