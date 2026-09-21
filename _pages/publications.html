@@ -11,26 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<!-- Sezione 1: tutte le pubblicazioni tranne i preprint -->
+<h2>All publications</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'preprints' %}
+    {% continue %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- Sezione 2: preprint (compare solo se ce n'e' almeno uno) -->
+{% assign preprints = site.publications | where: "category", "preprints" %}
+{% if preprints.size > 0 %}
+  <h2>Preprints</h2><hr />
+  {% for post in preprints reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
