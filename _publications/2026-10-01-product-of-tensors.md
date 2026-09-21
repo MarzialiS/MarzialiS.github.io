@@ -1,7 +1,7 @@
 ---
 title: "Product of tensors and description of networks"
 collection: publications
-category: manuscripts
+category: all
 permalink: /publication/product-of-tensors
 date: 2026-10-01
 venue: "Advances in Applied Mathematics, vol. 180, art. 103117"
