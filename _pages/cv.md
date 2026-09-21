@@ -25,7 +25,7 @@ Education
 * Upper secondary school diploma with degree 100/100 cum laude, Liceo Scientifico "Galileo Galilei" of Siena, Siena, Italy (July 2015).
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -42,4 +42,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
