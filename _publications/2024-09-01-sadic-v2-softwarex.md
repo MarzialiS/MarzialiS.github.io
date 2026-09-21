@@ -1,10 +1,10 @@
 ---
 title: "SADIC v2: A modern implementation of the Simple Atom Depth Index Calculator"
 collection: publications
-category: manuscripts
+category: all
 permalink: /publication/sadic-v2
 date: 2024-09-01
-venue: "SoftwareX"
+venue: "SoftwareX, vol. 27, art. 101803"
 paperurl: "https://doi.org/10.1016/j.softx.2024.101803"
 authors: "S. Marziali, G. Nunziati, A. L. Prete, N. Niccolai, M. Bianchini"
 ---
