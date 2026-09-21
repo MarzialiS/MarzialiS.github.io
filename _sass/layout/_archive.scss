@@ -48,22 +48,24 @@
   }
 }
 
-/* remove border and compact archive item spacing */
-.page__content {
+/* Compact spacing inside archive items */
+.archive,
+.page__content,
+.archive__item {
 
   .archive__item-title {
-    margin-top: 0.8em;
+    margin-top: 0;
     margin-bottom: 0.2em;
     border-bottom: none;
   }
 
-  .archive__item {
-    p {
-      margin: 0 0 0.35em;
+  p {
+    margin-top: 0;
+    margin-bottom: 0.3em;
+    line-height: 1.45;
 
-      &:last-child {
-        margin-bottom: 0;
-      }
+    &:last-child {
+      margin-bottom: 0;
     }
   }
 }
@@ -101,6 +103,18 @@
    ========================================================================== */
 
 .list__item {
+  display: block;
+  width: 100%;
+  margin-bottom: 2em;
+  padding-bottom: 1.8em;
+  border-bottom: 1px solid var(--global-dark-border-color, #bdc1c4);
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
