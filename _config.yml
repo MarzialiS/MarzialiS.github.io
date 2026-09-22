@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her"  
   bio              : "PhD in Mathematics"
   location         : "Dresden, Germany"
-  employer         : "Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)"
+  employer         : "MPI-CBG"
   uri              : # URL
   email            : "marziali@mpi-cbg.de" 
 
@@ -94,6 +94,14 @@ publication_category:
     title: 'All Publications'
   preprints:
     title: 'Preprints'
+
+  # Talks Category - The following the list of publication categories and their headings
+talks_category:
+  conference:
+    title: 'Conference Talks'
+  seminar:
+    title: 'Seminar Talks'    
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
