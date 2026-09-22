@@ -1,7 +1,7 @@
 ---
 title: "Waring decompositions of special binomials"
 collection: talks
-type: "Oral presentation"
+# type: "Oral presentation"
 date: 2026-07-14
 permalink: /talks/2026-07-14-tenors-workshop-waring-decompositions
 talk_type: conference
