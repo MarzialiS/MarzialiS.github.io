@@ -13,8 +13,7 @@ author_profile: true
 
 <h2>Conference Talks</h2>
 
-<!-- {% assign invited_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %} -->
-{% assign invited_talks = site.talks | where: "conference" | sort: "date" | reverse %}
+{% assign invited_talks = site.talks | where: "talk_type", "conference" | sort: "date" | reverse %}
 
 
 {% if invited_talks.size > 0 %}
