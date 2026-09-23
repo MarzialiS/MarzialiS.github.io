@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-
 <p>
-  Since November 2022, I have been a PhD student in Engineering and Information Science
-  at the University of Siena.
+  I am a postdoctoral researcher at the Max Planck Institute of Molecular Cell Biology and Genetics in Dresden, within Heather A. Harrington's group of Algebraic Systems Biology.
 </p>
 
 <p>
-  I received the Master's degree with Honours in Applied Mathematics from the University
-  of Siena in 2022, with a thesis entitled
-  <em>''Combinatorial and discrete differential operators for the study of β-sheets''</em>,
-  supervised by Professor Cristiano Bocci.
-  I obtained the Bachelor's Degree with Honours in Mathematics from the University of Siena,
+  In June 2026, I completed the Ph.D. in Engineering and Information Science at the University of Siena with final evaluation Excellent cum Laude under the supervision of Professor Luca Chiantini and the thesis <em>''Product of Tensors and the Algebra of Networks''</em>.
+</p>
+
+<p>
+  I received the Master's degree cum Laude in Applied Mathematics from the University
+  of Siena in 2022, with a thesis entitled <em>''Combinatorial and discrete differential operators for the study of β-sheets''</em>, supervised by Professor Cristiano Bocci.
+  I obtained the Bachelor's Degree cum Laude in Mathematics from the University of Siena,
   with a thesis on <em>''Logical Operators and Neural Networks''</em> under the supervision
   of Professor Luca Chiantini.
 </p>
