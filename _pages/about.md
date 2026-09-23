@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>
-  I am a postdoctoral researcher at the Max Planck Institute of Molecular Cell Biology and Genetics in Dresden, within Heather A. Harrington's group of Algebraic Systems Biology.
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 2.5em; align-items: flex-start; margin-top: 1em;"> <div style="flex: 2 1 380px; min-width: 280px;"> 
+
+<p> I am a postdoctoral researcher at the Max Planck Institute of Molecular Cell Biology and Genetics in Dresden, within Heather A. Harrington's group of Algebraic Systems Biology. </p>
 
 <p>
   In June 2026, I completed the Ph.D. in Engineering and Information Science at the University of Siena with final evaluation Excellent cum Laude under the supervision of Professor Luca Chiantini and the thesis <em>''Product of Tensors and the Algebra of Networks''</em>.
@@ -23,12 +23,7 @@ redirect_from:
   of Professor Luca Chiantini.
 </p>
 
-<!-- Storyline full width -->
-<div style="margin-top: 3em; margin-left: -8vw; margin-right: -8vw;">
-  <img src="/images/My_storyline_page-0001.jpg"
-       alt="My research storyline"
-       style="width: 100%; height: auto; display: block;">
-</div>
+</div> <div style="flex: 1 1 260px; min-width: 220px; max-width: 380px;"> <img src="/images/My_storyline_page-0001.jpg" alt="My research storyline" style="width: 100%; height: auto; display: block;"> </div> </div>
 
 
 
