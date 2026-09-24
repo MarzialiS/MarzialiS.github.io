@@ -22,7 +22,7 @@ redirect_from:
 
 <!-- Storyline full width -->
 <div style="margin-top: 3em; margin-left: -8vw; margin-right: -8vw;">
-  <img src="/files/My_storyline.pdf"
+  <img src="/images/My_storyline.pdf"
        alt="My research storyline"
        style="width: 100%; height: auto; display: block;">
 </div>
